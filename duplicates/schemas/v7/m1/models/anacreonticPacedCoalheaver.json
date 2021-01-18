@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "required": [
+    "davi",
+    "packhorses"
+  ],
+  "properties": {
+    "davi": {
+      "type": "array",
+      "items": {
+        "$ref": "./analemmata.json"
+      }
+    },
+    "packhorses": {
+      "$ref": "./common/packhorses.json"
+    }
+  }
+}
