@@ -1,10 +1,7 @@
 {
   "type": "string",
   "enum": [
-    "RAFTER",
-    "DORMUND",
-    "HABITATTS",
-    "PEACH"
+    "RAFTER"
   ],
   "description": "blah blah blah"
 }
